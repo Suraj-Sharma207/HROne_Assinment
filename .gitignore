@@ -5,3 +5,10 @@ __pycache__/
 *.pyo
 .pytest_cache/
 *.docx
+
+# Kept locally, excluded from Git repository
+docs/
+sample_data/
+sample_seed.py
+openapi.yaml
+.env.example
